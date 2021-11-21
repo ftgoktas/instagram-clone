@@ -1,29 +1,18 @@
-# Project 3 - *InstagramClone*
+# *Instagram Android Clone*
 
 **InstagramClone** is a photo sharing app similar to Instagram but using Parse as its backend.
 
-# Part 1
-
-Time spent: **5** hours spent in total
-
 ## User Stories
 
-The following **required** functionality is completed:
+The following features are implemented:
 
-- [x] User can sign up to create a new account using Parse authentication.
-- [x] User can log in and log out of his or her account.
-- [x] The current signed in user is persisted across app restarts.
-- [x] User can take a photo, add a caption, and post it to "Instagram".
-
-The following **optional** features are implemented:
-
-- [x] User sees app icon in home screen and styled bottom navigation view
-- [ ] Style the feed to look like the real Instagram feed.
-- [x] After the user submits a new post, show an indeterminate progress bar while the post is being uploaded to Parse.
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
+- User can sign up to create a new account using Parse authentication.
+- User can log in and log out of his or her account.
+- The current signed in user is persisted across app restarts.
+- User can take a photo, add a caption, and post it to "Instagram".
+- User sees app icon in home screen and styled bottom navigation view
+- Style the feed to look like the real Instagram feed.
+- After the user submits a new post, show an indeterminate progress bar while the post is being uploaded to Parse.
 
 ## Video Walkthrough
 
@@ -44,7 +33,7 @@ Figuring out how layouts and styling effects work took time but I had lots of fu
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Furkan Goktas]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
